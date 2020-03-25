@@ -106,12 +106,12 @@ p {
 }
 
 .icon {
-  color: #ef8172;
+  color: rgb(39, 32, 32);
   margin-bottom: 1rem;
 }
 
 .icon:hover {
-  color: #ff4c68;
+  color:brown;
 }
 
 /* Testimonial Section */
@@ -129,17 +129,6 @@ p {
   width: 10%;
   border-radius: 100%;
   margin: 20px;
-}
-
-
-#press {
-  background-color: #ef8172;
-  padding-bottom: 3%;
-}
-
-.press-logo {
-  width: 15%;
-  margin: 20px 20px 50px;
 }
 
 /* Pricing Section */
